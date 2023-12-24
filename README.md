@@ -19,11 +19,11 @@ To write a program to perform linear search and binary search using python progr
 ## Program:
 i)	#Use a linear search method to match the item in a list.
 ```
-```
+'''
 Program for linear search method to match the item in a list
 Developed by: K Kesava sai
 RegisterNumber: 212223230105
-```
+'''
 def linearSearch(array,n,k):
     for i in range (n) :
         if array [i] ==k :
